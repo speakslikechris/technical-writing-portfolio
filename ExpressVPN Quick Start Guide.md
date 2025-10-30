@@ -2,8 +2,6 @@
 ExpressVPN is a commercial VPN (virtual private network) software. A VPN encrypts the internet connection between your device and a remote VPN server for data transfer security and privacy.
 This quick start guide is aimed at ExpressVPN users installing the software on a Mac. To use ExpressVPN on other devices, check [other quick start guides](https://www.expressvpn.com/support/vpn-setup/).
 
-
-
 ## Quick start guide contents
 At the end of this quick start guide, you will be able to:
 * Install ExpressVPN on Mac.
@@ -14,7 +12,7 @@ At the end of this quick start guide, you will be able to:
 ExpressVPN is a premium VPN software with no freemium trial option. You must buy an ExpressVPN subscription before attempting this quick start guide. Find all ExpressVPN plans on the [subscription page](https://www.expressvpn.com/order/).
 
 ## Installing ExpressVPN on Mac
-You can install ExpressVPN on Mac in two ways:
+You can install ExpressVPN on a Mac in two ways:
 * Via your ExpressVPN account dashboard
 * Via the Macbook App Store
 
@@ -78,14 +76,14 @@ To select another remote server:
 
 Changing your protocol affects how ExpressVPN connects to the internet. You can learn more about [how VPN protocols work](https://www.expressvpn.com/what-is-vpn/protocols).
 To change the ExpressVPN protocol on Mac:
-1. Click the hamburger icon `☰`.
+1. Click the hamburger icon.
 ![](https://i.postimg.cc/Qd8nxY1x/SCR-20251024-qrev.jpg)
 2. Choose `Preferences...`.
 3. Select `Protocol` in the navigation tab.
 ![](https://i.postimg.cc/X7czW6GX/SCR-20251024-qrnn.jpg)
 4. Pick from available protocols.
 ![](https://i.postimg.cc/524kNKLV/SCR-20251024-qroq.jpg)
-5. Close the preferences menu to return to ExpressVPN homepage.
+5. Close the preferences menu to return to the ExpressVPN homepage.
 6. Connect to a remote server to use the new protocol.
 
 ### How to configure ExpressVPN advanced settings
@@ -116,9 +114,9 @@ This guide details common issues on ExpressVPN for Mac. If none of these solutio
 
 ### ExpressVPN not signing in on Mac
 If you're having difficulties signing into the ExpressVPN Mac app, do these:
-* Check that the ExpressVPN app is up to date. Otherwise, download a new and udpated version.
+* Check that the ExpressVPN app is up to date. Otherwise, download a new and updated version.
 ![](https://i.postimg.cc/yYXbKCg6/SCR-20251029-qomw.jpg)
-* Check that your Mac is running on the latest operating system version. Follow this [official Apple guide](https://support.apple.com/en-ca/109033) to do so.
+* Check that your Mac is running the latest operating system version. Follow this [official Apple guide](https://support.apple.com/en-ca/109033) to do so.
 * Confirm that your internet connection works.
 * Check if your subscription is still active. You can do so from your [ExpressVPN account dashboard](https://www.expressvpn.com/sign-in).
 
