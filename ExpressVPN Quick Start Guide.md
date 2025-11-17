@@ -104,8 +104,8 @@ Here's how to configure **Advanced Protection**:
 To prevent IPv6 traffic leaks over ExpressVPN:
 1. Click the hamburger icon `☰` in the ExpressVPN app home page.
 ![](https://i.postimg.cc/Qd8nxY1x/SCR-20251024-qrev.jpg)
-1. Select `Preferences`.
-2. Choose `Advanced` from the navigation menu.
+2. Select `Preferences`.
+3. Choose `Advanced` from the navigation menu.
 ![](https://i.postimg.cc/DydMh3J7/SCR-20251024-quql.jpg)
 4. Check the box next to `IPv6 Leak Protection`.
 
